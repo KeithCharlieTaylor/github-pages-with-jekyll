@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Keith Taylor's Jekyll Training
+author: Keith Taylor
+email: keechatay@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Is Jekyll a good alternative to WordPress for blogs? WordPress has 
+  dominated Content Management Systems (CMS) for years. But what if you just want to blog?
+  Let's see if GitHub pages with Jekyll is better than WordPress (or Ghost) as a blogging platform.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: KeithTaylor
+github_username:  KeithCharlieTaylor
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-dinky
+theme: minima
